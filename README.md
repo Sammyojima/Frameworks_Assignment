@@ -54,7 +54,7 @@ Frameworks_Assignment/
 ## 📸 Screenshots    
 
 ### Home Page  
-![Home Screenshot](screenshots/home.png)  
+![Home Screenshot](screenshots/Home.png)  
 
 ### Publications Over Time  
 ![Publications Screenshot](screenshots/publications.png)  
